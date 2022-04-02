@@ -8,7 +8,7 @@
     "activityBar.inactiveForeground": "#ff86d5b1",
     "activityBarBadge.foreground": "#2d263b",
     "activityBarBadge.background": "#86c9ea",
-    "activityBar.border": "#150f2100",
+    "activityBar.border": null,
     "activityBar.activeBackground": "#291f3b",
     "foreground": "#b6b6b6",
     "focusBorder": "#b6b6b6",
@@ -2092,6 +2092,5 @@
         "fontStyle": "italic"
       }
     }
-  ],
-  }
+  ]
 }
